@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.084c77f4.js",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.01f2dc09.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.f217b38c.js",
+    "static/js/824.c178adca.chunk.js": "/goit-react-hw-05-movies/static/js/824.c178adca.chunk.js",
+    "static/js/497.0024e546.chunk.js": "/goit-react-hw-05-movies/static/js/497.0024e546.chunk.js",
+    "static/js/170.6f2e6d4c.chunk.js": "/goit-react-hw-05-movies/static/js/170.6f2e6d4c.chunk.js",
+    "static/js/774.ad4a417b.chunk.js": "/goit-react-hw-05-movies/static/js/774.ad4a417b.chunk.js",
+    "static/js/460.793856b8.chunk.js": "/goit-react-hw-05-movies/static/js/460.793856b8.chunk.js",
+    "static/js/536.b2d42db8.chunk.js": "/goit-react-hw-05-movies/static/js/536.b2d42db8.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.084c77f4.js.map": "/goit-react-hw-05-movies/static/js/main.084c77f4.js.map"
+    "main.01f2dc09.css.map": "/goit-react-hw-05-movies/static/css/main.01f2dc09.css.map",
+    "main.f217b38c.js.map": "/goit-react-hw-05-movies/static/js/main.f217b38c.js.map",
+    "824.c178adca.chunk.js.map": "/goit-react-hw-05-movies/static/js/824.c178adca.chunk.js.map",
+    "497.0024e546.chunk.js.map": "/goit-react-hw-05-movies/static/js/497.0024e546.chunk.js.map",
+    "170.6f2e6d4c.chunk.js.map": "/goit-react-hw-05-movies/static/js/170.6f2e6d4c.chunk.js.map",
+    "774.ad4a417b.chunk.js.map": "/goit-react-hw-05-movies/static/js/774.ad4a417b.chunk.js.map",
+    "460.793856b8.chunk.js.map": "/goit-react-hw-05-movies/static/js/460.793856b8.chunk.js.map",
+    "536.b2d42db8.chunk.js.map": "/goit-react-hw-05-movies/static/js/536.b2d42db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.084c77f4.js"
+    "static/css/main.01f2dc09.css",
+    "static/js/main.f217b38c.js"
   ]
 }
